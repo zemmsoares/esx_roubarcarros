@@ -1,6 +1,6 @@
-USE `essentialmode`;
+USE `es_extended`;
 
-CREATE TABLE `impounded_vehicles` (
+CREATE TABLE `carros_roubados` (
 	`id` INT(11) NOT NULL AUTO_INCREMENT,
 	`plate` VARCHAR(12) NULL DEFAULT NULL,
 	`vehicle` TEXT NULL,
