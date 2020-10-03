@@ -4,7 +4,7 @@ Made a few changes to esx_impound to work as a carjack job.
 We´re using this as job function, they hijack other player cars, drive them into the blip to impound,
 then place the car plate on yellowpages or disco, so the owner can pay to get it back.
 
-The same would work for Police / Mecano impound 
+**The same would work for Police / Mecano impound** 
 
 ## esx_eden_garage
 ###### client.lua
