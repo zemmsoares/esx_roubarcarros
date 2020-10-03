@@ -9,7 +9,6 @@ The same would work for Police / Mecano impound
 ## esx_eden_garage
 ###### client.lua
 
-`Client.lua`
 ```lua
 -- View Vehicle Listings
 function ListVehiclesMenu()
